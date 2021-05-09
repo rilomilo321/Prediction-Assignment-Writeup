@@ -16,7 +16,7 @@ This project tries to predict the manner (`classe`) in which 6 individuals exerc
 library(caret)
 library(rpart)
 library(randomForest)
-set.seed(2019)
+set.seed(2021)
 ```
 
 ### Loading and exploring data
